@@ -1,0 +1,7 @@
+checkpoints/*
+exp/*
+logs/*
+exps/*
+wandb/*
+results/*
+*.ipynb
