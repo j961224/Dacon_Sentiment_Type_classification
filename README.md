@@ -5,7 +5,7 @@
 |         |   F1   | RANK |
 |:-------:|:------:|:----:|
 | Public  | 0.7552 |  15   |
-| Private | 0.75359 |  13   |
+| Private | 0.75359 |  11   |
 
 
 ## The main problem and how to solve it
